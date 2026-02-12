@@ -1,11 +1,9 @@
 ---
 name: totalitarian-pattern-recognition
-description: Identify early warning signs and structural patterns that echo totalitarian
-  logic in contemporary situations. Based on Hannah Arendt's analysis in *The Origins
-  of Totalitarianism*.
+description: Identify early warning signs and structural patterns that echo totalitarian logic in contemporary situations. Based on Hannah Arendt's analysis in *The Origins of Totalitarianism*.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - totalitarian-pattern-recognition
